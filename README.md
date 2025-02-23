@@ -7,7 +7,8 @@
         "image": "yes",
         "image_link": "https:\/\/s6.uupload.ir\/files\/1000559755_olch.jpg",
         "click": "yes",
-        "click_link": "https:\/\/radianlearn.ir"
+        "click_link": "https:\/\/radianlearn.ir",
+        "click_text": "\u0645\u0634\u0627\u0647\u062f\u0647 \u0648 \u0639\u0636\u0648\u06cc\u062a"
     },
     {
         "username_news": "IRANBomber786600_341822",
@@ -17,7 +18,8 @@
         "image": "yes",
         "image_link": "https:\/\/s6.uupload.ir\/files\/1000559755_8j1.jpg",
         "click": "no",
-        "click_link": ""
+        "click_link": "",
+        "click_text": ""
     },
     {
         "username_news": "IRANBomber352458_724056",
@@ -27,7 +29,8 @@
         "image": "yes",
         "image_link": "https:\/\/s6.uupload.ir\/files\/1000559755_8j1.jpg",
         "click": "no",
-        "click_link": ""
+        "click_link": "",
+        "click_text": ""
     },
     {
         "username_news": "IRANBomber712629_835678",
@@ -37,7 +40,8 @@
         "image": "yes",
         "image_link": "https:\/\/s6.uupload.ir\/files\/20250217_143248_7fbz.jpg",
         "click": "no",
-        "click_link": ""
+        "click_link": "",
+        "click_text": ""
     },
     {
         "username_news": "IRANBomber533092_324221",
@@ -47,7 +51,8 @@
         "image": "yes",
         "image_link": "https:\/\/s6.uupload.ir\/files\/20250217_143248_7fbz.jpg",
         "click": "no",
-        "click_link": ""
+        "click_link": "",
+        "click_text": ""
     },
     {
         "username_news": "IRANBomber732460_380841",
@@ -57,7 +62,8 @@
         "image": "yes",
         "image_link": "https:\/\/s6.uupload.ir\/files\/20250217_143248_7fbz.jpg",
         "click": "no",
-        "click_link": ""
+        "click_link": "",
+        "click_text": ""
     },
     {
         "username_news": "IRANBomber378655_574575",
@@ -67,7 +73,8 @@
         "image": "yes",
         "image_link": "https:\/\/biaupload.com\/do.php?imgf=org-15711e31bd361.jpg",
         "click": "no",
-        "click_link": ""
+        "click_link": "",
+        "click_text": ""
     },
     {
         "username_news": "IRANBomber929440_235751",
@@ -77,17 +84,8 @@
         "image": "yes",
         "image_link": "https:\/\/biaupload.com\/do.php?imgf=org-15711e31bd361.jpg",
         "click": "no",
-        "click_link": ""
-    },
-    {
-        "username_news": "IRANBomber896223_729663",
-        "title": "\u0633\u0644\u0627\u0645",
-        "text": "\u062e\u0648\u0628\u06cc",
-        "date": "06 \u0628\u0647\u0645\u0646 1403",
-        "image": "yes",
-        "image_link": "https:\/\/biaupload.com\/do.php?imgf=org-15711e31bd361.jpg",
-        "click": "no",
-        "click_link": ""
+        "click_link": "",
+        "click_text": ""
     },
     {
         "username_news": "IRANBomber725519_188882",
@@ -97,6 +95,7 @@
         "image": "yes",
         "image_link": "https:\/\/biaupload.com\/do.php?imgf=org-15711e31bd361.jpg",
         "click": "no",
-        "click_link": ""
+        "click_link": "",
+        "click_text": ""
     }
 ]
